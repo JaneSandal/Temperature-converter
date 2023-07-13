@@ -1,0 +1,94 @@
+
+body{
+    color: #343a46;
+}
+
+.center{
+    text-align: center;
+}
+
+.website-title{
+    font-size: 45px;
+    padding-top: 45px;
+}
+
+#celsius{
+    margin: auto;
+    width:  600px;
+    height: 200px;
+    background-color: #6096B4 ;
+    padding: 10px ;
+    border-radius: 10px;
+
+
+  }
+
+#fahrenheit{
+    margin: auto;
+    width:  600px;
+    height: 200px;
+    background-color: #93BFCF;
+    padding: 10px ;
+    border-radius: 10px;
+
+
+  }
+
+#kelvin{
+    margin: auto;
+    width:  600px;
+    height: 200px;
+    background-color: #BDCDD6;
+    padding: 10px ;
+    border-radius: 10px;
+
+
+  }
+
+body {
+    background-color: #DFD3C3;
+ }
+
+.form-padding {
+    padding: 2rem 1rem;
+  }
+  
+::-webkit-input-placeholder {
+    color: #343a46 !important;
+  }
+::-moz-placeholder {
+    color: #343a46 !important;
+  }
+:-ms-input-placeholder {
+    color: #343a46 !important;
+  }
+:-moz-placeholder {
+    color: #343a46 !important;
+  }
+
+input[type=number] {
+    cursor: pointer;
+  }
+  
+#input-celsius{
+    background-color: #6096B4;
+    font-size: 2.5rem;
+  }
+  
+#input-fahrenheit{
+    background-color: #93BFCF;
+    font-size: 2.5rem;
+  }
+  
+#input-kelvin{
+    background-color: #BDCDD6;
+    font-size: 2.5rem;
+  }
+  
+.form-padding {
+    padding: 2rem 1rem;
+  }
+
+p {
+  text-align: center;
+}
